@@ -1,4 +1,4 @@
-package br.com.stackmob;
+package br.com.stackmob.singleton;
 
 
 /**
